@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou [Seu Nome] 👋
 
-<!--
-**GabrieleMaciel/gabrielemaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou desenvolvedor com foco em [área de especialização] e apaixonado por [tecnologia/hobby].
 
-Here are some ideas to get you started:
+- 🔭 Atualmente, estou trabalhando em [projeto atual]
+- 🌱 Aprendendo [tecnologia ou ferramenta que está aprendendo]
+- 💬 Pergunte-me sobre [área de expertise]
+- 📫 Como me encontrar: [email ou redes sociais]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minhas Habilidades 🚀
+- Linguagens: ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+- Frameworks: ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+
+## Projetos em Destaque 💼
+- [Projeto 1](link): Descrição breve do projeto
+- [Projeto 2](link): Descrição breve do projeto
+
