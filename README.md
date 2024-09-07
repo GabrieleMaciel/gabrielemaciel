@@ -10,9 +10,13 @@ Sou desenvolvedor com foco em [área de especialização] e apaixonado por [tecn
 
 ## Minhas Habilidades 🚀
 - Linguagens:
-  - ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black)
-  - ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
-  - ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)
+  <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+</p>
 
 ## Projetos em Destaque 💼
 - [Projeto 1](link): Descrição breve do projeto
