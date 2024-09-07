@@ -10,9 +10,7 @@ Sou desenvolvedor com foco em [área de especialização] e apaixonado por [tecn
 
 ## Minhas Habilidades 🚀
 - Linguagens:
-  - ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
-  - ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black)
+  - ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black)
   - ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
   - ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)
 
