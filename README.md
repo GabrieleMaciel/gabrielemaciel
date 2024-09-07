@@ -21,5 +21,5 @@ Sou desenvolvedor com foco em [área de especialização] e apaixonado por [tecn
 
 ### Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielemaciel-github&layout=compact&theme=radical)
 
