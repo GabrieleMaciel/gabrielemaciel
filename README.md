@@ -1,17 +1,16 @@
 # Olá, mundo! 👋
 
 ## Sobre mim
-Sou desenvolvedora focada na área [Web] e apaixonado por [tecnologia/hobby].
+Sou desenvolvedora com foco em **Desenvolvimento Web** e apaixonada por aprender novas tecnologias. Embora não atue profissionalmente na área, dedico-me a projetos pessoais para aprimorar minhas habilidades e conhecimentos em programação.
 
-Tenho interesse em desenvolvimento de software, especialmente nas áreas de [áreas de interesse].
+- 🌱 Atualmente aprendendo: HTML, CSS, JavaScript, Java, e C.
+- 🎯 Objetivo: Contribuir para projetos open-source e expandir meu conhecimento em desenvolvimento Web.
+- ✨ Curiosidade: Apaixonada por [tecnologia/hobby] e sempre em busca de novos desafios.
 
-- 🔭 Atualmente, estou trabalhando em [projeto atual]
-- 🌱 Aprendendo [tecnologia ou ferramenta que está aprendendo]
-- 💬 Pergunte-me sobre [área de expertise]
-- 📫 Como me encontrar: [email ou redes sociais]
+---
 
-## - Linguagens de Conhecimento 👨‍💻
-  <div align="center">
+## Linguagens de Conhecimento 👨‍💻
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -19,7 +18,10 @@ Tenho interesse em desenvolvimento de software, especialmente nas áreas de [ár
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
 </div>
 
+---
+
 ## <span style="color:purple">Linguagens mais usadas</span>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/gabrielemaciel&layout=pie&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielemaciel&layout=compact&theme=radical)
 
+---
