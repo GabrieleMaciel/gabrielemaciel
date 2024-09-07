@@ -1,7 +1,9 @@
 # Olá, mundo! 👋
 
 ## Sobre mim
-Sou desenvolvedor com foco em [área de especialização] e apaixonado por [tecnologia/hobby].
+Sou desenvolvedora focada na área [Web] e apaixonado por [tecnologia/hobby].
+
+Tenho interesse em desenvolvimento de software, especialmente nas áreas de [áreas de interesse].
 
 - 🔭 Atualmente, estou trabalhando em [projeto atual]
 - 🌱 Aprendendo [tecnologia ou ferramenta que está aprendendo]
