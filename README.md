@@ -16,3 +16,6 @@ Sou desenvolvedor com foco em [área de especialização] e apaixonado por [tecn
 - [Projeto 1](link): Descrição breve do projeto
 - [Projeto 2](link): Descrição breve do projeto
 
+
+![Meu GIF favorito](https://media.giphy.com/media/3o7TKzDJo7dAoynDio/giphy.gif)
+
