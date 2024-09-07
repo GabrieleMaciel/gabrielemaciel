@@ -1,11 +1,7 @@
 # Olá, mundo! 👋
 
-## Sobre mim
+## Sobre mim ✨
 Sou desenvolvedora com foco em **Desenvolvimento Web** e apaixonada por aprender novas tecnologias. Embora não atue profissionalmente na área, dedico-me a projetos pessoais para aprimorar minhas habilidades e conhecimentos em programação.
-
-- 🌱 Atualmente aprendendo: HTML, CSS, JavaScript, Java, e C.
-- 🎯 Objetivo: Contribuir para projetos open-source e expandir meu conhecimento em desenvolvimento Web.
-- ✨ Curiosidade: Apaixonada por [tecnologia/hobby] e sempre em busca de novos desafios.
 
 ---
 
