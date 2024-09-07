@@ -20,5 +20,5 @@ Sou desenvolvedor com foco em [área de especialização] e apaixonado por [tecn
 ![Meu GIF favorito](https://media.giphy.com/media/3o7TKzDJo7dAoynDio/giphy.gif)
 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabriele&show_icons=true&theme=radical)
 
