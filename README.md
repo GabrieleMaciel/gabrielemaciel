@@ -19,12 +19,7 @@ Tenho interesse em desenvolvimento de software, especialmente nas áreas de [ár
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
 </div>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabriele&show_icons=true&theme=radical)
+## <span style="color:purple">Linguagens mais usadas</span>
 
-### Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielemaciel-github&layout=pie&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielemaciel-github&layout=compact&theme=radical)
-
-### Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=radical)
