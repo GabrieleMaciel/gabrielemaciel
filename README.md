@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, mundo! 👋
 
 ## Sobre mim
 Sou desenvolvedor com foco em [área de especialização] e apaixonado por [tecnologia/hobby].
