@@ -21,5 +21,5 @@ Tenho interesse em desenvolvimento de software, especialmente nas áreas de [ár
 
 ## <span style="color:purple">Linguagens mais usadas</span>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielemaciel-github&layout=pie&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/gabrielemaciel&layout=pie&theme=radical)
 
