@@ -9,6 +9,7 @@ Sou desenvolvedor com foco em [área de especialização] e apaixonado por [tecn
 - 📫 Como me encontrar: [email ou redes sociais]
 
 ## Minhas Habilidades 🚀
+(https://github.com/GabrieleMaciel/gabrielemaciel/blob/main/Linguagens.png)
 - Linguagens: ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 - Frameworks: ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 
