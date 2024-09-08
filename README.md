@@ -25,7 +25,7 @@ Sou desenvolvedora com foco em **Desenvolvimento Web** e apaixonada por aprender
   <a href="https://gabrielemaciel.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-32CD99?style=for-the-badge" alt="Portfolio"/>
   </a>
-   <a href="mailto:gabrielemacielpereira@gmail.com" target="_blank">
+   <a href="https://gabrielemaciel.github.io/portfolio/contato.html/" target="_blank">
     <img src="https://img.shields.io/badge/Email-5959AB?style=for-the-badge" alt="Email"/>
   </a>
 </div>
