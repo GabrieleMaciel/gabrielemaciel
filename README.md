@@ -19,7 +19,7 @@ Sou desenvolvedora com foco em **Desenvolvimento Web** e apaixonada por aprender
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="https://gabrielemaciel.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Email-5959AB?style=for-the-badge" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfólio-5959AB?style=for-the-badge" alt="Portfólio"/>
   </a>
 </div>
 
